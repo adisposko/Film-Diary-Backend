@@ -239,6 +239,166 @@
             "director": "Martin Scorsese",
             "runtime": 161,
             "posterURL": "https://media.themoviedb.org/t/p/w220_and_h330_face/x5T0cQDYws0xRBVG4Q3wpcrcmax.jpg"
+        },
+        {
+            "id": "30",
+            "title": "The Thing",
+            "year": 1982,
+            "director": "John Carpenter",
+            "runtime": 109,
+            "posterURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tzGY49kseSE9QAKk47uuDGwnSCu.jpg"
+        },
+        {
+            "id": "31",
+            "title": "Halloween",
+            "year": 1978,
+            "director": "John Carpenter",
+            "runtime": 91,
+            "posterURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg"
+        },
+        {
+            "id": "32",
+            "title": "They Live",
+            "year": 1988,
+            "director": "John Carpenter",
+            "runtime": 94,
+            "posterURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg"
+        },
+        {
+            "id": "33",
+            "title": "Escape from New York",
+            "year": 1981,
+            "director": "John Carpenter",
+            "runtime": 99,
+            "posterURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yreqWiQ7IOkXWVB2Tz4LJIs7xqA.jpg"
+        },
+        {
+            "id": "34",
+            "title": "Escape from L.A.",
+            "year": 1996,
+            "director": "John Carpenter",
+            "runtime": 100,
+            "posterURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3L9lL2eUsmLNNfENPwNOc82Hzpw.jpg"
+        },
+        {
+            "id": "35",
+            "title": "Big Trouble in Little China",
+            "year": 1986,
+            "director": "John Carpenter",
+            "runtime": 99,
+            "posterURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg"
+        },
+        {
+            "id": "36",
+            "title": "A Man Escaped",
+            "year": 1956,
+            "director": "Robert Bresson",
+            "runtime": 101,
+            "posterURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gkoZ8fFib24zhB2DKpjQ09SK9FU.jpg"
+        },
+        {
+            "id": "37",
+            "title": "Au Hasard Balthazar",
+            "year": 1966,
+            "director": "Robert Bresson",
+            "runtime": 96,
+            "posterURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jcFxAppupS7KMjzLZZgKYLFnjpp.jpg"
+        },
+        {
+            "id": "38",
+            "title": "Pickpocket",
+            "year": 1959,
+            "director": "Robert Bresson",
+            "runtime": 75,
+            "posterURL": "https://image.tmdb.org/t/p/original/ju2ZvTXh8jt4Iojm13zH4lnNbya.jpg"
+        },
+        {
+            "id": "39",
+            "title": "The Devil, Probably",
+            "year": 1977,
+            "director": "Robert Bresson",
+            "runtime": 97,
+            "posterURL": "https://image.tmdb.org/t/p/original/y6qtQ36wWyPq9gbcMWHjFHOWS2R.jpg"
+        },
+        {
+            "id": "40",
+            "title": "Alien",
+            "year": 1979,
+            "director": "Ridley Scott",
+            "runtime": 117,
+            "posterURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg"
+        },
+        {
+            "id": "41",
+            "title": "Blade Runner",
+            "year": 1982,
+            "director": "Ridley Scott",
+            "runtime": 118,
+            "posterURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg"
+        },
+        {
+            "id": "42",
+            "title": "The Duellists",
+            "year": 1977,
+            "director": "Ridley Scott",
+            "runtime": 100,
+            "posterURL": "https://image.tmdb.org/t/p/original/eQaSfGmFX6OG8TwRM3StwkVMJRt.jpg"
+        },
+        {
+            "id": "43",
+            "title": "Legend",
+            "year": 1985,
+            "director": "Ridley Scott",
+            "runtime": 94,
+            "posterURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dv6ic0AUuMn3k2uk6JaikwZU3NU.jpg"
+        },
+        {
+            "id": "44",
+            "title": "Kingdom of Heaven",
+            "year": 2005,
+            "director": "Ridley Scott",
+            "runtime": 144,
+            "posterURL": "https://image.tmdb.org/t/p/original/6SKbtFZXWxrUiSN2XaV0OXQKpRQ.jpg"
+        },
+        {
+            "id": "45",
+            "title": "The Last Duel",
+            "year": 2021,
+            "director": "Ridley Scott",
+            "runtime": 153,
+            "posterURL": "https://image.tmdb.org/t/p/original/3TxPIZ8nlSzB6WTOtoBz0YrxT8M.jpg"
+        },
+        {
+            "id": "46",
+            "title": "Gladiator",
+            "year": 2000,
+            "director": "Ridley Scott",
+            "runtime": 155,
+            "posterURL": "https://image.tmdb.org/t/p/original/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+        },
+        {
+            "id": "47",
+            "title": "Samurai I: Musashi Miyamoto",
+            "year": 1954,
+            "director": "Hiroshi Inagaki",
+            "runtime": 93,
+            "posterURL": "https://image.tmdb.org/t/p/original/2nCSzKqOslKrsvUHb2T1jsuh2eQ.jpg"
+        },
+        {
+            "id": "48",
+            "title": "Samurai II: Duel at Ichijoji Temple",
+            "year": 1955,
+            "director": "Hiroshi Inagaki",
+            "runtime": 103,
+            "posterURL": "https://image.tmdb.org/t/p/original/nybLbDfegJOUMzsdrWWvLTD4kY0.jpg"
+        },
+        {
+            "id": "49",
+            "title": "Samurai III: Duel at Ganryu Island",
+            "year": 1956,
+            "director": "Hiroshi Inagaki",
+            "runtime": 105,
+            "posterURL": "https://image.tmdb.org/t/p/original/oVGMAef2EGjeXc4rJTTqTJq1ib4.jpg"
         }
     ]
 }
