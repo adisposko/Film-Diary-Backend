@@ -21,7 +21,6 @@ router.get('/film-search', (req, res, next) => {
     
     filmData.find(query).toArray()
     .then((searchResults) => {
-        console.log(searchResults);
         if (!searchResults.length) {
             return res.status(404).json({message: 'Not found!'});
         }
