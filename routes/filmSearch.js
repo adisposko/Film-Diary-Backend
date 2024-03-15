@@ -1,9 +1,10 @@
-// old implementation used utility/searchLogic.js with assets/film_data.json for searching films
-// new implementation with MongoDB, film data in cloud database
-
 const express = require('express');
 const router = express.Router();
 
+//code below exposes access to MongoDB cloud database, which is accessible from any IP
+//this was done to enable anyone surveying my github to initialize the backend app
+//however, the user/pass combo in the client url below grants read only privileges to user...
+//...and the database contains no confidential information
 const MongoClient = require('mongodb').MongoClient;
 const url = 'mongodb+srv://film_search_readonly:QYjUJGDA5nz688U6@filmdiary.lch3av0.mongodb.net/?retryWrites=true&w=majority&appName=filmdiary';
 const client = new MongoClient(url);

@@ -1,6 +1,6 @@
 Film Diary Backend
 
-Practice project. Server-side ExpressJS app with MongoDB database. Associated browser-side React app "Film Diary" at https://github.com/adisposko/Film-Diary
+Practice project. Server-side ExpressJS app with MongoDB database. Corresponding browser-side React app "Film Diary" at https://github.com/adisposko/Film-Diary
 
 Functionality: Browser-side implements a diary of watched films. Server-side receives
 query to search films from limited database of 50 films, and returns an array of
